@@ -21,7 +21,7 @@ through email integrated in-app.
 
 
 ## Screenshots
-![fs-1](https://user-images.githubusercontent.com/63578169/171340964-b0fef806-89c7-4f7e-8780-5d784824d10f.png)
+![fs-1](https://github.com/satyarthi-siddharth/Web-Dev/blob/main/File%20Sharing/File_Sharing_Demo/Screenshot%20(64).png)
 ![fs-2](https://user-images.githubusercontent.com/63578169/171341032-3a4c6291-1ec1-4e7d-9fbb-d626dc4bcba2.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
