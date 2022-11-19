@@ -5,7 +5,7 @@ file handling and SMTP integration.
 through email integrated in-app.
 > Live demo [_here_](https://trusting-haibt-6edb30.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-##### Frontend Repo - [https://github.com/rajaditya143/fileSharing-app](https://github.com/rajaditya143/file-sharing-frontend)
+##### Frontend Repo - [https://github.com/satyarthi-siddharth/Web-Dev/tree/main/File%20Sharing/File_Sharing_Frontend/file-sharing-frontend-master)
 
 
 ## TechStack Used for frontend
